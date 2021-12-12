@@ -1,8 +1,8 @@
-#include <iostream> // подключает библиотеку для вывода в консоль
+п»ї#include <iostream> // РїРѕРґРєР»СЋС‡Р°РµС‚ Р±РёР±Р»РёРѕС‚РµРєСѓ РґР»СЏ РІС‹РІРѕРґР° РІ РєРѕРЅСЃРѕР»СЊ
 using namespace std;
 
-int main()
+void main()
 {
 	setlocale(LC_ALL, "Rus");
-	cout << "HELLO WORLD ПРИВЕТ !" << endl;
+
 }
